@@ -1,6 +1,10 @@
 global.DeveloperMode = 'false' 
 global.linkGC = []
-global.owner = ['5219996125657']
+global.owner = [
+  ['212679713244', '👑 Elherd - Creador 👑', true],
+  ['212648521406', '🤖 Elherd - Bot 🤖', true],
+  ['212679713244']
+] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
 global.APIs = { 
@@ -21,8 +25,8 @@ global.APIKeys = {
   'https://pencarikode.xyz': 'pais'
 }
 
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot Is The Best'
+global.packname = '(☞ﾟ∀ﾟ)☞'
+global.author = '𝙴𝙻𝙷𝙴𝚁𝙳 Bot Is The Best'
 global.multiplier = 9999 
 
 let fs = require('fs')
