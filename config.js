@@ -1,10 +1,6 @@
 global.DeveloperMode = 'false' 
 global.linkGC = []
-global.owner = [
-  ['212679713244', '👑 Elherd - Creador 👑', true],
-  ['212648521406', '🤖 Elherd - Bot 🤖', true],
-  ['212679713244']
-] // Cambia los numero que quieras
+global.owner = ['212679713244']
 global.mods = [] 
 global.prems = [] 
 global.APIs = { 
